@@ -1,0 +1,18 @@
+Moosefs
+Moosefs is an open source, POIX approved data system. It has the following 2 models:
+•	Moosefs LPV2.0
+•	Moosefs professional 
+The website for this open source is https:\\moosefs by the organization Tuxera.
+Moosefs has the following components:
+•	Metadata server (MDS)
+It provides location for the data.
+
+•	Metalogger server
+It takes data from MDS to back up the data.
+
+•	Client
+It can access to both the servers.
+Advantages 
+1.	Fault tolerance: if the file is unable to copy and shows an error, the previous data can be retrieved.
+2.	Security: the newer version of Moosefs provides authorization feature to increase security.
+3.	Transparent trash bin: the discarded file can be retrieved from the trash bin directly up till a certain period of time. 
