@@ -1,6 +1,6 @@
 Moosefs
 Moosefs is an open source, POIX approved data system. It has the following 2 models:
-•	Moosefs LPV2.0
+•	Moosefs LPV2.0 license 
 •	Moosefs professional 
 The website for this open source is https:\\moosefs by the organization Tuxera.
 Moosefs has the following components:
