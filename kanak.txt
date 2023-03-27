@@ -12,6 +12,7 @@ It takes data from MDS to back up the data.
 
 •	Client
 It can access to both the servers.
+
 Advantages 
 1.	Fault tolerance: if the file is unable to copy and shows an error, the previous data can be retrieved.
 2.	Security: the newer version of Moosefs provides authorization feature to increase security.
